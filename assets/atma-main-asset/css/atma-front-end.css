@@ -1,0 +1,44 @@
+@font-face{
+    font-family: Fragmentcore;
+    src: url(../../Font/Fragmentcore.otf);
+}
+
+body{
+    background-color: white !important;
+}
+
+.full-screen-content{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+
+.full-height-content{
+    height: 105vh;
+    bottom: 0;
+}
+
+#custom{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+#fragmentcoreFont{
+    font-family: Fragmentcore;
+}
+
+#left-menu{
+    position: fixed;
+}
+
+#footer{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+
+p{
+    line-height: 2;
+}
+
